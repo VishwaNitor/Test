@@ -5,5 +5,9 @@ public class Appium {
 		// TODO Auto-generated method stub
 
 	}
+	public static void m2() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
