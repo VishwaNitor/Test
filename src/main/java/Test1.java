@@ -18,5 +18,12 @@ public class Test1 {
 	{
 		System.out.println("rte");
 	}
-
+	public void test2()
+	{
+		System.out.println("rte");
+	}
+	public void test3()
+	{
+		System.out.println("rte");
+	}
 }
