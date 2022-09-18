@@ -9,5 +9,14 @@ public class Test1 {
 		System.out.println();
 
 	}
+	
+	public void test()
+	{
+		System.out.println("rte");
+	}
+	public void test1()
+	{
+		System.out.println("rte");
+	}
 
 }
